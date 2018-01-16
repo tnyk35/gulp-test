@@ -1,0 +1,25 @@
+{
+  "name": "gulp-test",
+  "version": "1.0.0",
+  "description": "gulpの実験を行う",
+  "main": "gulpfile.js",
+  "dependencies": {
+    "gulp": "^4.0.0"
+  },
+  "devDependencies": {
+    "gulp-pug": "^3.3.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tnyk35/gulp-test.git"
+  },
+  "author": "Yuki Tani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tnyk35/gulp-test/issues"
+  },
+  "homepage": "https://github.com/tnyk35/gulp-test#readme"
+}
